@@ -5,9 +5,7 @@
 👀 Suitable for: bug hunters and penetration testers.
 
 # 🚀 Execution Output:
-
-![output](https://github.com/user-attachments/assets/16ccc513-1771-4d4d-b6e1-a7dd80d93099)
-
+![output](https://github.com/user-attachments/assets/4734deb1-11ca-4aef-a866-b8c5c171cbb2)
 # 🏁 Command Flags:
 
       1. -u: input a single domain for extraction - command: python3 probe.py -u google.com
@@ -15,7 +13,7 @@
 
 # ⚙️ Installation:
 
-![carbon-3](https://github.com/user-attachments/assets/2d867d1a-da90-41a2-aec2-3d6bb5c66ad7)
+![carbon-4](https://github.com/user-attachments/assets/6136475f-209f-4007-84a8-884dd1464e7c)
 
 # 🛠️ Features:
 
