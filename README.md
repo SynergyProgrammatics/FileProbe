@@ -4,11 +4,14 @@
 
 👀 Suitable for: bug hunters and penetration testers.
 
-
 # 🚀 Execution Output:
 
 ![output](https://github.com/user-attachments/assets/16ccc513-1771-4d4d-b6e1-a7dd80d93099)
 
+# 🏁 Command Flags:
+
+      1. -u: input a single domain for extraction - command: python3 probe.py -u google.com
+      2. -f: input a file that contains a list of varying URLs for extract - ensure the file path is wrapped to avoid conflictions - command: python3 probe.py "domains.txt"
 
 # ⚙️ Installation:
 
@@ -16,11 +19,12 @@
 
 # 🛠️ Features:
 
-      1. File-input only - specify path that contains list of URLs
-      2. Response validation for indvidual URLs 
-      3. Tabulated outputs based on response conitions for organization
-      4. Progression bar for monitoring
-      5. Termcolor contrast for each phases during execution - clarity
+      1. File-input  - specify path that contains list of URLs to process
+      2. Single domain processing - leveraged automatically with GAU (Get-All-URLs)
+      3. Response validation for individual URLs 
+      4. Tabulated outputs based on response conditions for organization
+      5. Progression bar for monitoring
+      6. Termcolor contrast for each phases during execution - clarity
 
 # 👥 Credits:
 
