@@ -9,7 +9,7 @@
 # 🏁 Command Flags:
 
       1. -u: input a single domain for extraction - command: python3 probe.py -u google.com
-      2. -f: input a file that contains a list of varying URLs for extract - ensure the file path is wrapped to avoid conflictions - command: python3 probe.py "domains.txt"
+      2. -f: input a file that contains a list of varying URLs for extract - ensure the file path is wrapped to avoid conflictions - command: python3 probe.py "usr/path/urls-extract/domains.txt"
 
 # ⚙️ Installation:
 
@@ -17,7 +17,7 @@
 
 # 🛠️ Features:
 
-      1. File-input  - specify path that contains list of URLs to process
+      1. File-input that contains URLs
       2. Single domain processing - leveraged automatically with GAU (Get-All-URLs)
       3. Response validation for individual URLs 
       4. Tabulated outputs based on response conditions for organization
