@@ -1,6 +1,6 @@
 ## FileProbe 📄
 
-🎯 Have URLs in bulks to analyze - specifically, those URL-based file extensions? Seems daunting & inconvenient. Therefore, this program organizes the common file extensions-based URLs,  provides their responses, and simple to understand output. 
+🎯 Have URLs in bulks to analyze - specifically, those URL-based file extensions? Seems daunting & inconvenient. Therefore, this program organizes the common file extensions-based URLs, provides their responses, and simple to understand outputs - when providing a URLs-contained file, or a domain.
 
 👀 Suitable for: bug hunters and penetration testers.
 
